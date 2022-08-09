@@ -1,0 +1,2 @@
+# metro.bank
+Metro Bank is a bank for small and medium sized enterprises which allows SMEs to manage their current accounts, employee payroll, vendor payments, and loans. Create an application for the bank which supports the following features: This application allows a user to create an account and manage their profile Login securely, view their customized dashboard Manage subscriptions to various banking services View, download &amp; print their transactions
